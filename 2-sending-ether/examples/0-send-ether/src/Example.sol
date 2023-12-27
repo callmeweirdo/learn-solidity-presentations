@@ -20,3 +20,5 @@ contract A {
 contract B {
     receive() external payable {}
 }
+
+// done with this lesson
